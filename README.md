@@ -8,8 +8,10 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Example
+Examples are here!
 
 ## Another Change
 
 Like this, do ya?  No?  Are you sure?
+
+Oh, you were just kidding!  Oh, you weren't?
